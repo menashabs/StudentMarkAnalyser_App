@@ -3,7 +3,7 @@ A shiny app to input marks of an examination and obtain the analysis.
 
 ## StudentMarkAnalyser: Students' Exam Mark Analysing App: [Link](https://menashasenanayaka.shinyapps.io/studentmarkanalyser_app/)
 
-The app is designed to conduct the analysis in a user-friendly manner. The uploaded datasets will not be saved or shared with any third-party. The app is safe to use.
+The app is designed to conduct the analysis in a user-friendly manner. The uploaded datasets or outputs will not be saved or shared with any third-party. The app is safe to use.
 
 Note:
 
